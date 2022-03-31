@@ -13,3 +13,5 @@ print('I want to go home!')
 x = 10
 
 print(x*2)
+
+print("it's tough")
